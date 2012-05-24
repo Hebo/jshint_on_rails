@@ -1,3 +1,3 @@
 .bundle
-*.swp
-
+*.swp	  	
+.DS_Store
